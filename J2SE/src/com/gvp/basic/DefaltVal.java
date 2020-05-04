@@ -14,7 +14,7 @@ public class DefaltVal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Default values of Instance variables");
+		System.out.println("Default values of Instance/Global variables");
 		
 		DefaltVal dv = new DefaltVal();
 		System.out.println("Student No:"+dv.sno);
